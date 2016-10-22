@@ -1,0 +1,24 @@
+PHP - 1.67s
+  Abriendo Archivo...
+  Hola Bienvenidos al Curso de Node.js
+  Haciendo otra cosa
+
+Node Síncrono - 0.207s
+  Abriendo Archivo...
+  Hola Bienvenidos al Curso de Node.js
+  Haciendo otra cosa
+
+Node Asíncrono - 0.153 (Callback Anónima)
+  Abriendo Archivo...
+  Haciendo otra cosa
+  Hola Bienvenidos al Curso de Node.js
+
+Node Asíncrono - 0.16 (Callback Definida)
+  Abriendo Archivo...
+  Haciendo otra cosa
+  Hola Bienvenidos al Curso de Node.js
+
+Node Asíncrono - 0.231 (con promise)
+  Abriendo Archivo...
+  Haciendo otra cosa
+  Hola Bienvenidos al Curso de Node.js
